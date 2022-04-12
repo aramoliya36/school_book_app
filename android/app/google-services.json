@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161202067504",
+    "project_id": "schoolmonk-498e9",
+    "storage_bucket": "schoolmonk-498e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161202067504:android:df07e018ab2d80f1fff5f5",
+        "android_client_info": {
+          "package_name": "com.example.skoolmonk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161202067504-4i3reji4tlglatcfa971eriftgouf0vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_tPXKdL9K2Buux3Tm6hNUlx0hdBiP6Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161202067504-4i3reji4tlglatcfa971eriftgouf0vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
